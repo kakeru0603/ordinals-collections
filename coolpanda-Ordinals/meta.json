@@ -1,0 +1,10 @@
+{
+  "name": "coolpandaOrdinals",                    # inscription name
+  "inscription_icon": "4d602bd160abad290073af2c78f336472a2f517b7cbecf3bc28147cccd0aa7e7i0",        # collection cover inscription id
+  "supply": "16",                  # total supply
+  "slug": "coolpandaOrdinals",                    # directory name
+  "description": "Super cool! Japan's very popular NFT collection COOL PANDA is coming to Bitcoin NFT! Pick up the fashionable and stylish designs featuring pandas and skeletons and make your everyday life COOL!",             # collection description
+  "twitter_link": "https://twitter.com/kakeru_nft",            # official twitter
+  "discord_link": "",            # official discord
+  "website_link": ""             # official website
+}
